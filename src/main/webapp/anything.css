@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+body{
+	background-color:green;
+	background: aqua;
+}
+h2,h3{
+	color: aqua;
+}
+table{
+	
+	
+}
+th {
+  background-color: #c0c0c0;
+  color: white;
+}
+tr{
+	
+	background-color: #c0c0c0;
+  color: white;
+}
+div
+{
+	padding-top: 100px;
+	padding-left: 500px;
+	background-color: aqua;
+
+}
